@@ -1,0 +1,617 @@
+Periodo,Region,Producto,Envasado,Presentacion,Marca,Contenido_ml,Costo_Produccion ,Precio_Venta
+2020_INV,Argentina,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2020_INV,Argentina,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2020_INV,Australia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_INV,Australia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_INV,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2020_INV,Belgica,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,China,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2020_INV,China,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2020_INV,China,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,China,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_INV,China,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,China,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,China,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_INV,China,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2020_INV,Espana,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2020_INV,espana,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_INV,Espana,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_INV,Espana,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_INV,Espana,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,Estados unidos,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_INV,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_INV,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,Estados unidos,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,Estados unidos,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_INV,Estados unidos,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2020_INV,Francia,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,Francia,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,Francia,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,Japon,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_INV,Japon,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,Mexico,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2020_INV,Mexico,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,Mexico,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_INV,Mexico,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_INV,Mexico,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_INV,Mexico,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2020_OTO,Argentina,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_OTO,Argentina,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_OTO,Argentina,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2020_OTO,Australia,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_OTO,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2020_OTO,Belgica,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_OTO,China,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_OTO,China,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_OTO,China,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2020_OTO,Espana,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_OTO,Espana,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2020_OTO,Estados unidos,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_OTO,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_OTO,Francia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2020_OTO,Francia,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_OTO,Francia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_OTO,Japon,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2020_OTO,Japon,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2020_OTO,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_OTO,Japon,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2020_OTO,Mexico,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2020_OTO,Mexico,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_OTO,Mexico,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_OTO,Mexico,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_OTO,Mexico,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_PRI,Argentina,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2020_PRI,Argentina,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_PRI,Argentina,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_PRI,Australia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2020_PRI,Belgica,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_PRI,Belgica,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_PRI,China,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2020_PRI,China,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_PRI,China,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_PRI,China,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_PRI,Espana,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2020_PRI,Espana,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_PRI,Espana,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_PRI,Espana,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_PRI,Espana,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2020_PRI,Espana,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2020_PRI,Estados unidos,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_PRI,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_PRI,Francia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2020_PRI,Francia,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_PRI,Francia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2020_PRI,Japon,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2020_PRI,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_PRI,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_PRI,Japon,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2020_PRI,Mexico,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_PRI,Mexico,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_PRI,Mexico,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2020_PRI,Mexico,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_VER,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2020_VER,Belgica,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2020_VER,Belgica,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_VER,China,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2020_VER,China,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_VER,Espana,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2020_VER,Espana,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2020_VER,Espana,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_VER,Espana,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2020_VER,Estados unidos,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2020_VER,Estados unidos,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_VER,Estados unidos,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2020_VER,Francia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2020_VER,Francia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2020_VER,Francia,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2020_VER,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2020_VER,Japon,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2020_VER,Mexico,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2020_VER,Mexico,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Argentina,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_INV,Argentina,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_INV,Argentina,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_INV,Argentina,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_INV,Argentina,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Argentina,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Argentina,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_INV,Argentina,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_INV,Australia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_INV,Australia,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_INV,Australia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_INV,Australia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_INV,Australia,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_INV,Australia,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Australia,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_INV,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_INV,Belgica,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_INV,China,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_INV,China,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_INV,Espana,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_INV,Espana,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_INV,Espana,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_INV,Espana,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_INV,Espana,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_INV,Espana,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Espana,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Espana,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Espana,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_INV,Espana,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_INV,Espana,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_INV,Espana,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_INV,Estados unidos,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_INV,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_INV,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Estados unidos,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Estados unidos,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Estados unidos,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_INV,Estados unidos,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_INV,Francia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_INV,Francia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_INV,Francia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_INV,Francia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_INV,Francia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_INV,Francia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_INV,Japon,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_INV,Japon,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_INV,Japon,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_INV,Japon,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_INV,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_INV,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_INV,Japon,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Japon,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Japon,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_INV,Japon,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Japon,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_INV,Japon,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_INV,Mexico,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_INV,Mexico,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Mexico,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Mexico,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_INV,Mexico,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_INV,Mexico,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_INV,Mexico,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_OTO,Argentina,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_OTO,Argentina,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_OTO,China,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_OTO,China,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_OTO,China,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_OTO,China,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_OTO,China,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_OTO,Espana,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_OTO,Espana,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_OTO,Estados unidos,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_OTO,Estados unidos,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_OTO,Estados unidos,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_OTO,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_OTO,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_OTO,Estados unidos,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_OTO,Francia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_OTO,Francia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_OTO,Francia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_OTO,Francia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_OTO,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_OTO,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_OTO,Mexico,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_OTO,Mexico,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_OTO,Mexico,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_OTO,Mexico,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_OTO,Mexico,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_PRI,Argentina,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_PRI,Argentina,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_PRI,Argentina,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_PRI,Belgica,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_PRI,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_PRI,Belgica,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_PRI,Belgica,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,Belgica,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_PRI,Belgica,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,Belgica,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,Belgica,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_PRI,China,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_PRI,China,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_PRI,China,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_PRI,China,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_PRI,China,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,China,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,China,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_PRI,China,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_PRI,Espana,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_PRI,Espana,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_PRI,Espana,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_PRI,Espana,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_PRI,Espana,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_PRI,Espana,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_PRI,Espana,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_PRI,Estados unidos,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_PRI,Estados unidos,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_PRI,Estados unidos,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_PRI,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,Estados unidos,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,Estados unidos,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_PRI,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_PRI,Estados unidos,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,Estados unidos,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_PRI,Estados unidos,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_PRI,Estados unidos,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_PRI,Estados unidos,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_PRI,Francia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_PRI,Francia,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_PRI,Francia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_PRI,Japon,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_PRI,Japon,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_PRI,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_PRI,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_PRI,Japon,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_PRI,Mexico,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_PRI,Mexico,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_PRI,Mexico,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_PRI,Mexico,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,Mexico,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,Mexico,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_PRI,Mexico,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_PRI,Mexico,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_PRI,Mexico,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Argentina,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_VER,Argentina,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Argentina,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Argentina,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Australia,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_VER,Australia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_VER,Australia,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Australia,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Australia,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Australia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Australia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_VER,Australia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_VER,Australia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_VER,Belgica,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Belgica,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_VER,China,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_VER,China,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,China,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_VER,China,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_VER,China,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,China,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_VER,Espana,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_VER,Espana,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_VER,Espana,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_VER,Espana,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_VER,Espana,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Espana,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Espana,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Estados unidos,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_VER,Estados unidos,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_VER,Estados unidos,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_VER,Estados unidos,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Estados unidos,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Estados unidos,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_VER,Estados unidos,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_VER,Estados unidos,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_VER,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Estados unidos,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Estados unidos,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_VER,Francia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_VER,Francia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Francia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_VER,Japon,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2021_VER,Japon,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_VER,Japon,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2021_VER,Japon,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Japon,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_VER,Japon,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Japon,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Japon,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2021_VER,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_VER,Japon,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2021_VER,Japon,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2021_VER,Mexico,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2021_VER,Mexico,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2021_VER,Mexico,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Mexico,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Mexico,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2021_VER,Mexico,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2021_VER,Mexico,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,Argentina,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_INV,Argentina,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_INV,Argentina,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Argentina,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Argentina,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,Argentina,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_INV,Argentina,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Argentina,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Australia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,Australia,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Australia,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Australia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_INV,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_INV,Belgica,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,Belgica,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_INV,Belgica,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Belgica,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Belgica,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Belgica,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_INV,China,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_INV,China,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_INV,China,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_INV,China,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,China,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,China,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,China,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,China,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_INV,China,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_INV,China,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Espana,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_INV,Espana,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_INV,Espana,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Espana,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Espana,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_INV,Espana,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,Espana,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_INV,Espana,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Estados unidos,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_INV,Estados unidos,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_INV,Estados unidos,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_INV,Estados unidos,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Estados unidos,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Estados unidos,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_INV,Estados unidos,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Estados unidos,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_INV,Estados unidos,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_INV,Estados unidos,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Francia,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_INV,Francia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_INV,Francia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_INV,Francia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Francia,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Francia,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Francia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_INV,Francia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,Francia,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_INV,Francia,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Francia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Francia,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_INV,Japon,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_INV,Japon,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_INV,Japon,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_INV,Japon,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Japon,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_INV,Japon,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Japon,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_INV,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,Japon,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Japon,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_INV,Japon,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Mexico,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_INV,Mexico,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_INV,Mexico,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_INV,Mexico,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Mexico,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Mexico,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_INV,Mexico,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_INV,Mexico,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_INV,Mexico,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_INV,Mexico,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_INV,Mexico,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_INV,Mexico,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Argentina,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_OTO,Argentina,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Argentina,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_OTO,Argentina,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Australia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_OTO,Australia,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_OTO,Australia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_OTO,Australia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Australia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_OTO,Australia,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_OTO,Australia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_OTO,Belgica,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_OTO,Belgica,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_OTO,Belgica,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_OTO,Belgica,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,China,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_OTO,China,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_OTO,China,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_OTO,China,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,China,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,China,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_OTO,China,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Espana,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_OTO,Espana,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_OTO,Espana,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_OTO,Espana,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Espana,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Espana,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Espana,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_OTO,Espana,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_OTO,Espana,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_OTO,Espana,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_OTO,Espana,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Estados unidos,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_OTO,Estados unidos,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_OTO,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_OTO,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Francia,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_OTO,Francia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_OTO,Francia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_OTO,Francia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_OTO,Francia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_OTO,Francia,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_OTO,Francia,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Francia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Japon,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_OTO,Japon,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_OTO,Japon,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_OTO,Japon,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_OTO,Japon,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Japon,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_OTO,Japon,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_OTO,Japon,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_OTO,Japon,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Mexico,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_OTO,Mexico,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_OTO,Mexico,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_OTO,Mexico,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_OTO,Mexico,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Mexico,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_OTO,Mexico,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_OTO,Mexico,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,Australia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_PRI,Australia,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_PRI,Australia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,Australia,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_PRI,Australia,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Australia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_PRI,Australia,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Australia,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Australia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_PRI,Australia,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_PRI,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_PRI,Belgica,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_PRI,Belgica,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Belgica,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Belgica,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_PRI,Belgica,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,China,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_PRI,China,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_PRI,China,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_PRI,China,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,China,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_PRI,China,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_PRI,China,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,China,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_PRI,China,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,Espana,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_PRI,Espana,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_PRI,Espana,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_PRI,Espana,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Espana,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_PRI,Espana,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_PRI,Espana,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,Espana,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_PRI,Espana,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Espana,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Espana,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_PRI,Espana,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,Estados unidos,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_PRI,Estados unidos,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_PRI,Estados unidos,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_PRI,Estados unidos,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,Estados unidos,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_PRI,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_PRI,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Estados unidos,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Estados unidos,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Estados unidos,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_PRI,Estados unidos,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_PRI,Estados unidos,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,Japon,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_PRI,Japon,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_PRI,Japon,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_PRI,Japon,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_PRI,Japon,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_PRI,Japon,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Japon,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Japon,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_PRI,Japon,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_PRI,Japon,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_PRI,Mexico,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_PRI,Mexico,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Mexico,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_PRI,Mexico,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Mexico,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_PRI,Mexico,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_PRI,Mexico,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_VER,Argentina,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_VER,Argentina,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_VER,Argentina,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_VER,Argentina,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Argentina,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Argentina,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Argentina,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Argentina,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_VER,Argentina,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_VER,Argentina,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Australia,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_VER,Australia,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_VER,Australia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_VER,Australia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Australia,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_VER,Australia,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Australia,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Australia,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Australia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_VER,Australia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Belgica,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_VER,Belgica,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Belgica,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_VER,Belgica,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Belgica,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_VER,Belgica,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_VER,China,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_VER,China,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_VER,China,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_VER,China,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,China,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,China,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_VER,China,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_VER,China,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,China,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_VER,China,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Espana,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_VER,Espana,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_VER,Espana,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_VER,Espana,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Espana,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_VER,Espana,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_VER,Espana,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_VER,Espana,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Estados unidos,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_VER,Estados unidos,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_VER,Estados unidos,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Estados unidos,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_VER,Estados unidos,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Estados unidos,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Estados unidos,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Estados unidos,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_VER,Estados unidos,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_VER,Francia,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_VER,Francia,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_VER,Francia,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_VER,Francia,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Francia,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Japon,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_VER,Japon,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_VER,Japon,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_VER,Japon,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_VER,Japon,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_VER,Japon,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Japon,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_VER,Japon,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Japon,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Japon,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Japon,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
+2022_VER,Japon,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Mexico,Cerveza Martens Gold Regular 1 Litro,Botella,1 Litro,Martens,1000,24.5,35
+2022_VER,Mexico,Cerveza Heineken 12 pack 355ml Botella,Botella,12 Pack 355ml,Cuahutemoc,355,159.6,228
+2022_VER,Mexico,Cerveza Martens 1 Litro,Botella ,1 Litro,Martens,1000,24.5,35
+2022_VER,Mexico,Cerveza Martens Gold Regular sixpack 330ml,Lata,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Mexico,Cerveza Tecate Light 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Mexico,Cerveza XX Laguer lata 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,134.4,192
+2022_VER,Mexico,Cerveza Indio 12 pck 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Mexico,Cerveza Corona 12pack 355ml,Lata,12 Pack 355ml,Corona,355,97.3,139
+2022_VER,Mexico,Cerveza Corona Light 12pack 355ml,Lata,12 Pack 355ml,Corona,355,96.6,138
+2022_VER,Mexico,Cerveza Tecate Original 12 pack 355ml,Lata,12 Pack 355ml,Cuahutemoc,355,121.8,174
+2022_VER,Mexico,Cerveza Martens Light sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,55.3,79
+2022_VER,Mexico,Cerveza Martens Ultra sixpack 330ml,Lata ,6 Pack 330ml,Martens,330,59.43,84.9
